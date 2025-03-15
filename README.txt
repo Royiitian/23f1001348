@@ -1,4 +1,4 @@
-extract both `rar` files in separate folders.
+extract both `zip` files in separate folders.
 
 for backend ("the one with the python files") :
 	open the project using > right click > open with vscode
